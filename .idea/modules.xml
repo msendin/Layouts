@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Layouts.iml" filepath="$PROJECT_DIR$/Layouts.iml" group="Layouts" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Layouts/app" />
+      <module fileurl="file://$PROJECT_DIR$/Layouts.iml" filepath="$PROJECT_DIR$/Layouts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Layouts.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Layouts.app.iml" />
     </modules>
   </component>
 </project>
